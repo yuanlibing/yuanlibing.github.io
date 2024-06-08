@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ShouYe",
+    "pages/Service",
+    "pages/Login",
+    "pages/LoginIndex",
+    "pages/Web"
+  ]
+}
